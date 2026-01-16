@@ -5,14 +5,14 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>4.0.0</version>
+		<version>4.0.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.Cesde</groupId>
-	<artifactId>concesionario</artifactId>
+	<artifactId>Concesionario</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>concesionario</name>
-	<description>Aplicación para manejo de Sping boot</description>
+	<name>Concesionario</name>
+	<description>Ejemplo de Spring boot</description>
 	<url/>
 	<licenses>
 		<license/>

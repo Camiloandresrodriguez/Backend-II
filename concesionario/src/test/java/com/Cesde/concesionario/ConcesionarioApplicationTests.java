@@ -1,4 +1,4 @@
-package com.Cesde.concesionario;
+package com.Cesde.Concesionario;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
