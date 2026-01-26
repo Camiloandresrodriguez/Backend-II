@@ -22,7 +22,7 @@ public class MVehiculo
     @Column(nullable = false)
     private Integer valor;
 
-    @Column(length = 5, nullable = false, columnDefinition = "True")
+    @Column(length = 5, nullable = false)
     private String activo;
 
     public MVehiculo(String placa, String marca, String modelo, Integer valor, String activo)

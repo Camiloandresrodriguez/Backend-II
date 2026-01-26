@@ -23,7 +23,7 @@ public class MCliente
     @Column(length = 10, nullable = false)
     private String telefonocliente;
 
-    @Column(length = 5, nullable = false, columnDefinition = "True")
+    @Column(length = 5, nullable = false)
     private String activo;
 
     //Constructores
